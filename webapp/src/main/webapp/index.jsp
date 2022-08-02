@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="email"><b>My Email</b></label>
+    <label for="email"><b>My Email Address</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
     <br>
@@ -13,7 +13,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
 
     <br>
-
+                                  
     <label for="psw-repeat"><b>Please Repeat Password</b></label>
     <input type="password" placeholder="Please Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
